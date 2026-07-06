@@ -1,0 +1,132 @@
+﻿[
+    {
+        "Index":  370,
+        "Style":  "List Paragraph",
+        "Text":  ""
+    },
+    {
+        "Index":  371,
+        "Style":  "Heading 2",
+        "Text":  "1.5 Giới hạn"
+    },
+    {
+        "Index":  372,
+        "Style":  "Normal",
+        "Text":  "Đề tài “Xây dựng hệ thống quản lý phòng trọ và giám sát chất lượng nước của khách thuê trọ” có những giới hạn nghiên cứu sau:"
+    },
+    {
+        "Index":  373,
+        "Style":  "List Paragraph",
+        "Text":  "Website tập trung quản lý thông tin phòng trọ, khách thuê, hợp đồng thuê và các tiện ích liên quan phục vụ nhu cầu quản lý hiệu quả."
+    },
+    {
+        "Index":  374,
+        "Style":  "List Paragraph",
+        "Text":  "Giám sát chất lượng nước sử dụng trong phòng trọ thông qua cảm biến độ đục nước, dữ liệu được thu thập và truyền về server"
+    },
+    {
+        "Index":  375,
+        "Style":  "List Paragraph",
+        "Text":  "Cảm biến thu thập dữ liệu độ đục của nước theo thời gian thực và trực quan hóa dữ liệu trên giao diện website."
+    },
+    {
+        "Index":  376,
+        "Style":  "List Paragraph",
+        "Text":  "Sử dụng Websocket để có thể cập nhật dữ liệu realtime"
+    },
+    {
+        "Index":  377,
+        "Style":  "Heading 2",
+        "Text":  "1.6 Bố cục"
+    },
+    {
+        "Index":  378,
+        "Style":  "Normal",
+        "Text":  "Nội dung đề tài gồm các phần sau:"
+    },
+    {
+        "Index":  379,
+        "Style":  "Normal",
+        "Text":  "Chương 1: Giới thiệu tổng quan"
+    },
+    {
+        "Index":  380,
+        "Style":  "List Paragraph",
+        "Text":  "Vấn đề hiện nay"
+    },
+    {
+        "Index":  381,
+        "Style":  "List Paragraph",
+        "Text":  "Lý do chọn đề tài"
+    },
+    {
+        "Index":  382,
+        "Style":  "List Paragraph",
+        "Text":  "Nội dung nghiên cứu"
+    },
+    {
+        "Index":  383,
+        "Style":  "List Paragraph",
+        "Text":  "Giới hạn"
+    },
+    {
+        "Index":  384,
+        "Style":  "List Paragraph",
+        "Text":  "Bố cục"
+    },
+    {
+        "Index":  385,
+        "Style":  "Normal",
+        "Text":  "Chương 2: Cơ sở lý thuyết"
+    },
+    {
+        "Index":  386,
+        "Style":  "List Paragraph",
+        "Text":  "Mô hình hệ thống IoT"
+    },
+    {
+        "Index":  387,
+        "Style":  "List Paragraph",
+        "Text":  "Giới thiệu về ESP8266"
+    },
+    {
+        "Index":  388,
+        "Style":  "List Paragraph",
+        "Text":  "Kiến trúc Java Springboot"
+    },
+    {
+        "Index":  389,
+        "Style":  "List Paragraph",
+        "Text":  "Công nghệ giao diện ReactJs"
+    },
+    {
+        "Index":  390,
+        "Style":  "List Paragraph",
+        "Text":  "Cơ sở dữ liệu"
+    },
+    {
+        "Index":  391,
+        "Style":  "Normal",
+        "Text":  "Chương 3: Phân Tích Và Thiết kế hệ thống"
+    },
+    {
+        "Index":  392,
+        "Style":  "List Paragraph",
+        "Text":  "Phân tích yêu cầu hệ thống"
+    },
+    {
+        "Index":  393,
+        "Style":  "List Paragraph",
+        "Text":  "Thiết kế cơ sở dữ liệu"
+    },
+    {
+        "Index":  394,
+        "Style":  "List Paragraph",
+        "Text":  "Sơ đồ usecase"
+    },
+    {
+        "Index":  395,
+        "Style":  "List Paragraph",
+        "Text":  "Sơ đồ tuần tự theo các chức năng"
+    }
+]

@@ -1,0 +1,18 @@
+package com.example.mainservice.controllers;
+
+import com.example.mainservice.models.SensorDataModel;
+import org.springframework.web.bind.annotation.*;
+
+@RestController
+@RequestMapping("/api/sensor")
+@CrossOrigin
+public class SensorDataController {
+
+    @PostMapping
+    public String receiveData(@RequestBody SensorDataModel data) {
+        System.out.println("📥 Received data: " + data);
+
+        // Ở đây bạn có thể gọi service để lưu vào DB, gửi cảnh báo, v.v.
+        return "✅ Data received successfully!";
+    }
+}

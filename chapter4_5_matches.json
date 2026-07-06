@@ -1,0 +1,47 @@
+﻿[
+    {
+        "Index":  1154,
+        "Style":  "Normal",
+        "Text":  "water_old_index\r\u0007"
+    },
+    {
+        "Index":  1158,
+        "Style":  "Normal",
+        "Text":  "water_new_index\r\u0007"
+    },
+    {
+        "Index":  1162,
+        "Style":  "Normal",
+        "Text":  "water_usage\r\u0007"
+    },
+    {
+        "Index":  1166,
+        "Style":  "Normal",
+        "Text":  "water_recorded_at\r\u0007"
+    },
+    {
+        "Index":  1539,
+        "Style":  "Normal",
+        "Text":  "│   │               │   ├── SensorController.java"
+    },
+    {
+        "Index":  1544,
+        "Style":  "Normal",
+        "Text":  "│   │               │   └── websockets/                # WebSocket handlers"
+    },
+    {
+        "Index":  1647,
+        "Style":  "Normal",
+        "Text":  "│       └── UtilityWaterApi.ts"
+    },
+    {
+        "Index":  1663,
+        "Style":  "Normal",
+        "Text":  "│   │   ├── sensor/              # Quản lý cảm biến"
+    },
+    {
+        "Index":  1698,
+        "Style":  "Normal",
+        "Text":  "│   └── websocket.ts             # Cấu hình websocket"
+    }
+]

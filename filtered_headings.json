@@ -1,0 +1,362 @@
+﻿[
+    {
+        "Index":  197,
+        "Style":  "TOC 2",
+        "Text":  "2.1 Giới thiệu các thiết bị sử dụng trong đề tài\t9"
+    },
+    {
+        "Index":  198,
+        "Style":  "TOC 2",
+        "Text":  "2.2 Giới thiệu phần cứng\t9"
+    },
+    {
+        "Index":  199,
+        "Style":  "TOC 3",
+        "Text":  "2.2.1 Cảm biến đo độ đục của nước\t9"
+    },
+    {
+        "Index":  200,
+        "Style":  "TOC 3",
+        "Text":  "2.2.2 Mạch ESP8266\t13"
+    },
+    {
+        "Index":  201,
+        "Style":  "TOC 3",
+        "Text":  "2.2.3 Relay 5VDC\t15"
+    },
+    {
+        "Index":  202,
+        "Style":  "TOC 2",
+        "Text":  "2.3 Giao thức\t17"
+    },
+    {
+        "Index":  203,
+        "Style":  "TOC 3",
+        "Text":  "2.3.1 Wifi\t17"
+    },
+    {
+        "Index":  204,
+        "Style":  "TOC 3",
+        "Text":  "2.3.2 Websocket\t18"
+    },
+    {
+        "Index":  205,
+        "Style":  "TOC 2",
+        "Text":  "2.4 Phần mềm – công nghệ sử dụng\t19"
+    },
+    {
+        "Index":  206,
+        "Style":  "TOC 3",
+        "Text":  "2.4.1 Trình soạn thảo Arduino IDE\t19"
+    },
+    {
+        "Index":  207,
+        "Style":  "TOC 3",
+        "Text":  "2.4.2 Java Springboot\t21"
+    },
+    {
+        "Index":  208,
+        "Style":  "TOC 3",
+        "Text":  "2.4.3 ReactJs\t21"
+    },
+    {
+        "Index":  209,
+        "Style":  "TOC 3",
+        "Text":  "2.4.4 IDE InteliJ\t22"
+    },
+    {
+        "Index":  210,
+        "Style":  "TOC 3",
+        "Text":  "2.4.5 Visual Studio Code\t23"
+    },
+    {
+        "Index":  212,
+        "Style":  "TOC 2",
+        "Text":  "3.1 Phân tích yêu cầu hệ thống\t24"
+    },
+    {
+        "Index":  213,
+        "Style":  "TOC 2",
+        "Text":  "3.2 Sơ đồ phân cấp chức năng\t25"
+    },
+    {
+        "Index":  215,
+        "Style":  "TOC 2",
+        "Text":  "4.1 Giới thiệu\t36"
+    },
+    {
+        "Index":  216,
+        "Style":  "TOC 2",
+        "Text":  "4.2 Lắp đặt và triển khai\t36"
+    },
+    {
+        "Index":  217,
+        "Style":  "TOC 3",
+        "Text":  "4.2.1 Thi công board mạch\t36"
+    },
+    {
+        "Index":  218,
+        "Style":  "TOC 3",
+        "Text":  "4.2.2 Lắp đặt và kiểm tra\t37"
+    },
+    {
+        "Index":  219,
+        "Style":  "TOC 2",
+        "Text":  "4.3 Triển khai mô hình\t38"
+    },
+    {
+        "Index":  220,
+        "Style":  "TOC 2",
+        "Text":  "4.4 Lập trình hệ thống\t39"
+    },
+    {
+        "Index":  222,
+        "Style":  "TOC 2",
+        "Text":  "5.1 Kết quả thực nghiệm\t59"
+    },
+    {
+        "Index":  223,
+        "Style":  "TOC 2",
+        "Text":  "5.2 Nhận xét\t74"
+    },
+    {
+        "Index":  224,
+        "Style":  "TOC 2",
+        "Text":  "5.3 Đánh giá\t74"
+    },
+    {
+        "Index":  226,
+        "Style":  "TOC 2",
+        "Text":  "6.1 Kết luận\t75"
+    },
+    {
+        "Index":  227,
+        "Style":  "TOC 2",
+        "Text":  "6.2 Hướng phát triển\t76"
+    },
+    {
+        "Index":  413,
+        "Style":  "Heading 2",
+        "Text":  "2.1 Giới thiệu các thiết bị sử dụng trong đề tài"
+    },
+    {
+        "Index":  418,
+        "Style":  "Heading 2",
+        "Text":  "2.2 Giới thiệu phần cứng"
+    },
+    {
+        "Index":  419,
+        "Style":  "Normal",
+        "Text":  "2.2.1 Mạch ESP8266"
+    },
+    {
+        "Index":  457,
+        "Style":  "Heading 3",
+        "Text":  "2.2.2 Relay 5VDC"
+    },
+    {
+        "Index":  484,
+        "Style":  "Heading 2",
+        "Text":  "2.3 Giao thức"
+    },
+    {
+        "Index":  485,
+        "Style":  "Heading 3",
+        "Text":  "2.3.1 Wifi"
+    },
+    {
+        "Index":  501,
+        "Style":  "Heading 3",
+        "Text":  "2.3.2 Websocket"
+    },
+    {
+        "Index":  507,
+        "Style":  "Heading 2",
+        "Text":  "2.4 Phần mềm – công nghệ sử dụng"
+    },
+    {
+        "Index":  508,
+        "Style":  "Heading 3",
+        "Text":  "2.4.1 Trình soạn thảo Arduino IDE"
+    },
+    {
+        "Index":  519,
+        "Style":  "Heading 3",
+        "Text":  "2.4.2 Java Springboot"
+    },
+    {
+        "Index":  523,
+        "Style":  "Heading 3",
+        "Text":  "2.4.3 ReactJs"
+    },
+    {
+        "Index":  527,
+        "Style":  "Heading 3",
+        "Text":  "2.4.4 IDE InteliJ"
+    },
+    {
+        "Index":  534,
+        "Style":  "Heading 3",
+        "Text":  "2.4.5 Visual Studio Code"
+    },
+    {
+        "Index":  552,
+        "Style":  "Heading 2",
+        "Text":  "3.1 Phân tích yêu cầu hệ thống"
+    },
+    {
+        "Index":  554,
+        "Style":  "Normal",
+        "Text":  "3.1.1 Người dùng hệ thống"
+    },
+    {
+        "Index":  559,
+        "Style":  "Normal",
+        "Text":  "3.1.2 Chức năng Admin"
+    },
+    {
+        "Index":  571,
+        "Style":  "Normal",
+        "Text":  "3.1.3 Chức năng khách thuê trọ"
+    },
+    {
+        "Index":  580,
+        "Style":  "Heading 2",
+        "Text":  "3.2 Sơ đồ phân cấp chức năng"
+    },
+    {
+        "Index":  581,
+        "Style":  "Normal",
+        "Text":  "3.2.1 Admin"
+    },
+    {
+        "Index":  585,
+        "Style":  "Normal",
+        "Text":  "3.2.2 Khách thuê trọ"
+    },
+    {
+        "Index":  588,
+        "Style":  "Normal",
+        "Text":  "3.3 Sơ đồ tuần tự"
+    },
+    {
+        "Index":  589,
+        "Style":  "Normal",
+        "Text":  "3.3.1 Chức năng đăng nhập"
+    },
+    {
+        "Index":  598,
+        "Style":  "Normal",
+        "Text":  "3.3.2 Chức năng thêm/xóa/sửa/đặt lại mật khẩu (Admin)"
+    },
+    {
+        "Index":  604,
+        "Style":  "Normal",
+        "Text":  "3.3.3 Chức năng thêm/xóa/sửa dịch vụ (Admin)"
+    },
+    {
+        "Index":  610,
+        "Style":  "Normal",
+        "Text":  "3.3.4 Chức năng quản lý chỉ số điện nước (Admin)"
+    },
+    {
+        "Index":  633,
+        "Style":  "Normal",
+        "Text":  "3.3.5 Chức năng quản lý hóa đơn – tính tiền (Admin)"
+    },
+    {
+        "Index":  645,
+        "Style":  "Normal",
+        "Text":  "3.3.6 Chức năng quản lý yêu cầu bảo trì (Admin)"
+    },
+    {
+        "Index":  665,
+        "Style":  "Normal",
+        "Text":  "3.3.7 Chức năng báo cáo doanh thu (Admin)"
+    },
+    {
+        "Index":  675,
+        "Style":  "Normal",
+        "Text":  "3.3.8 Chức năng quản lý thông tin cá nhân (Khách thuê trọ)"
+    },
+    {
+        "Index":  680,
+        "Style":  "Normal",
+        "Text":  "3.3.9 Quản lý thông tin hóa đơn (Khách thuê trọ)"
+    },
+    {
+        "Index":  684,
+        "Style":  "Normal",
+        "Text":  "3.3.10 Quản lý thông tin hợp đồng (Khách thuê trọ)"
+    },
+    {
+        "Index":  701,
+        "Style":  "Heading 2",
+        "Text":  "4.1 Giới thiệu"
+    },
+    {
+        "Index":  705,
+        "Style":  "Heading 2",
+        "Text":  "4.2 Lắp đặt và triển khai"
+    },
+    {
+        "Index":  706,
+        "Style":  "Heading 3",
+        "Text":  "4.2.1 Thi công board mạch"
+    },
+    {
+        "Index":  710,
+        "Style":  "Heading 3",
+        "Text":  "4.2.2 Lắp đặt và kiểm tra"
+    },
+    {
+        "Index":  718,
+        "Style":  "Heading 2",
+        "Text":  "4.3 Triển khai mô hình"
+    },
+    {
+        "Index":  728,
+        "Style":  "Heading 2",
+        "Text":  "4.4 Lập trình hệ thống"
+    },
+    {
+        "Index":  729,
+        "Style":  "Normal",
+        "Text":  "4.4.1 Cơ sở dữ liệu"
+    },
+    {
+        "Index":  1358,
+        "Style":  "Normal",
+        "Text":  "4.4.2 Back – end Java Springboot"
+    },
+    {
+        "Index":  1620,
+        "Style":  "Normal",
+        "Text":  "4.4.3 Front – end ReacJs"
+    },
+    {
+        "Index":  1715,
+        "Style":  "Heading 2",
+        "Text":  "5.1 Kết quả thực nghiệm"
+    },
+    {
+        "Index":  1848,
+        "Style":  "Heading 2",
+        "Text":  "5.2 Nhận xét"
+    },
+    {
+        "Index":  1859,
+        "Style":  "Heading 2",
+        "Text":  "5.3 Đánh giá"
+    },
+    {
+        "Index":  1865,
+        "Style":  "Heading 2",
+        "Text":  "6.1 Kết luận"
+    },
+    {
+        "Index":  1874,
+        "Style":  "Heading 2",
+        "Text":  "6.2 Hướng phát triển"
+    }
+]

@@ -1,0 +1,157 @@
+﻿[
+    {
+        "Index":  160,
+        "Style":  "Normal",
+        "Text":  "Tuần 8"
+    },
+    {
+        "Index":  161,
+        "Style":  "Normal",
+        "Text":  "(13/6 – 19/6)\r\u0007"
+    },
+    {
+        "Index":  162,
+        "Style":  "Normal",
+        "Text":  "Test chức năng gửi dữ liệu từ cảm biến đến server và fix bug.\r\u0007"
+    },
+    {
+        "Index":  163,
+        "Style":  "Normal",
+        "Text":  "Trường CĐ Công Nghệ Thông Tin TP Hồ Chí Minh\r\u0007"
+    },
+    {
+        "Index":  164,
+        "Style":  "Normal",
+        "Text":  "\u0007"
+    },
+    {
+        "Index":  165,
+        "Style":  "Normal",
+        "Text":  "Tuần 9"
+    },
+    {
+        "Index":  166,
+        "Style":  "Normal",
+        "Text":  "(20/6 – 26/6)\r\u0007"
+    },
+    {
+        "Index":  167,
+        "Style":  "Normal",
+        "Text":  "Xây dựng front – end cơ bản.\r\u0007"
+    },
+    {
+        "Index":  168,
+        "Style":  "Normal",
+        "Text":  "Trường CĐ Công Nghệ Thông Tin TP Hồ Chí Minh\r\u0007"
+    },
+    {
+        "Index":  169,
+        "Style":  "Normal",
+        "Text":  "\u0007"
+    },
+    {
+        "Index":  170,
+        "Style":  "Normal",
+        "Text":  "Tuần 10"
+    },
+    {
+        "Index":  171,
+        "Style":  "Normal",
+        "Text":  "(27/6 – 3/7)\r\u0007"
+    },
+    {
+        "Index":  172,
+        "Style":  "Normal",
+        "Text":  "Hoàn thiện front – end và fix bug.\r\u0007"
+    },
+    {
+        "Index":  173,
+        "Style":  "Normal",
+        "Text":  "Trường CĐ Công Nghệ Thông Tin TP Hồ Chí Minh\r\u0007"
+    },
+    {
+        "Index":  174,
+        "Style":  "Normal",
+        "Text":  "\u0007"
+    },
+    {
+        "Index":  175,
+        "Style":  "Normal",
+        "Text":  "Tuần 11"
+    },
+    {
+        "Index":  176,
+        "Style":  "Normal",
+        "Text":  "(4/7 – 7/7)\r\u0007"
+    },
+    {
+        "Index":  177,
+        "Style":  "Normal",
+        "Text":  "Xây dựng websocket để nhận dữ liệu realtime. Viết báo cáo đồ án tốt nghiệp và làm slide báo cáo\r\u0007"
+    },
+    {
+        "Index":  178,
+        "Style":  "Normal",
+        "Text":  "Trường CĐ Công Nghệ Thông Tin TP Hồ Chí Minh\r\u0007"
+    },
+    {
+        "Index":  179,
+        "Style":  "Normal",
+        "Text":  "\u0007"
+    },
+    {
+        "Index":  180,
+        "Style":  "Comment Subject",
+        "Text":  ""
+    },
+    {
+        "Index":  181,
+        "Style":  "Comment Subject",
+        "Text":  ""
+    },
+    {
+        "Index":  182,
+        "Style":  "Normal",
+        "Text":  "TÓM TẮT ĐỒ ÁN"
+    },
+    {
+        "Index":  183,
+        "Style":  "Normal",
+        "Text":  "Trong thời đại công nghệ phát triển mạnh mẽ và ảnh hưởng sâu rộng đến mọi mặt của đời sống, việc ứng dụng công nghệ vào quản lý nhà trọ trở nên cấp thiết hơn bao giờ hết. Khi nhu cầu thuê trọ ngày càng gia tăng tại các khu đô thị, các phương thức quản lý truyền thống không còn đáp ứng hiệu quả. Sự kết hợp giữa công nghệ web và Internet of Things mang lại tiềm năng lớn để nâng cao chất lượng dịch vụ, tối ưu quy trình vận hành và cải thiện trải nghiệm cho cả người cho thuê và người thuê."
+    },
+    {
+        "Index":  184,
+        "Style":  "Normal",
+        "Text":  "Quản lý nhà trọ không chỉ là việc thu tiền mỗi tháng hay ghi chép thủ công chỉ số điện nước. Đây là một hệ thống phức hợp liên quan đến đời sống sinh hoạt, điều kiện tiện nghi và môi trường sống của người thuê. Việc đưa công nghệ vào hỗ trợ sẽ giúp tăng tính minh bạch, giảm sai sót trong quản lý, đồng thời giúp người thuê dễ dàng theo dõi thông tin hợp đồng, hóa đơn và các chỉ số liên quan."
+    },
+    {
+        "Index":  185,
+        "Style":  "Normal",
+        "Text":  "Xuất phát từ nhu cầu thực tiễn đó, em đã tiến hành nghiên cứu và xây dựng một hệ thống website giúp quản lý phòng trọ một cách toàn diện. Hệ thống cho phép người dùng xem thông tin phòng, hợp đồng, hóa đơn, theo dõi chỉ số điện nước và đặc biệt là giám sát chất lượng nước sinh hoạt thông qua cảm biến được kết nối mạng. Website không chỉ hỗ trợ chủ trọ trong việc quản lý hiệu quả mà còn mang lại sự tiện lợi, an toàn và chủ động cho người thuê. Đây là một ứng dụng thiết thực nhằm góp phần hiện đại hóa mô hình quản lý nhà trọ trong thời đại số."
+    },
+    {
+        "Index":  186,
+        "Style":  "Comment Subject",
+        "Text":  ""
+    },
+    {
+        "Index":  187,
+        "Style":  "TOC Heading",
+        "Text":  "MỤC LỤC"
+    },
+    {
+        "Index":  188,
+        "Style":  "TOC 1",
+        "Text":  "MỞ ĐẦU\t1"
+    },
+    {
+        "Index":  189,
+        "Style":  "TOC 1",
+        "Text":  "CHƯƠNG 1. GIỚI THIỆU TỔNG QUAN\t2"
+    },
+    {
+        "Index":  190,
+        "Style":  "TOC 2",
+        "Text":  "1.1 Vấn đề hiện nay\t2"
+    }
+]

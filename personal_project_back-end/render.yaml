@@ -1,0 +1,85 @@
+services:
+  - type: web
+    name: room-management-auth
+    env: docker
+    buildCommand: mvn clean package -DskipTests
+    dockerfile: auth-service/Dockerfile
+    workingDirectory: auth-service
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: production
+      - key: SPRING_DATASOURCE_URL
+        fromDatabase:
+          name: room-management-db
+          property: connectionString
+      - key: SPRING_DATASOURCE_USERNAME
+        fromDatabase:
+          name: room-management-db
+          property: user
+      - key: SPRING_DATASOURCE_PASSWORD
+        fromDatabase:
+          name: room-management-db
+          property: password
+    plan: free
+
+  - type: web
+    name: room-management-main
+    env: docker
+    dockerfile: main-service/Dockerfile
+    buildCommand: mvn clean package -DskipTests
+    workingDirectory: main-service
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: production
+      - key: SPRING_DATASOURCE_URL
+        fromDatabase:
+          name: room-management-db
+          property: connectionString
+      - key: SPRING_DATASOURCE_USERNAME
+        fromDatabase:
+          name: room-management-db
+          property: user
+      - key: SPRING_DATASOURCE_PASSWORD
+        fromDatabase:
+          name: room-management-db
+          property: password
+    plan: free
+
+  - type: web
+    name: room-management-file
+    env: docker
+    dockerfile: file-service/Dockerfile
+    buildCommand: mvn clean package -DskipTests
+    workingDirectory: file-service
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: production
+    plan: free
+
+  - type: web
+    name: room-management-notify
+    env: docker
+    dockerfile: notify-service/Dockerfile
+    buildCommand: mvn clean package -DskipTests
+    workingDirectory: notify-service
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: production
+    plan: free
+
+  - type: web
+    name: room-management-payment
+    env: docker
+    dockerfile: payment-service/Dockerfile
+    buildCommand: mvn clean package -DskipTests
+    workingDirectory: payment-service
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: production
+    plan: free
+
+databases:
+  - name: room-management-db
+    databaseName: room_management
+    user: admin
+    plan: free

@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react-hooks/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "react-hooks"],
+  "root": true,
+  "rules": {
+    "prefer-const": "error",
+    "react-hooks/rules-of-hooks": "error", //  BẮT BUỘC hook đúng chuẩn
+    "react-hooks/exhaustive-deps": "warn", //  BẮT dependency trong hook
+    "@typescript-eslint/no-unused-vars": [
+      "warn",
+      { "argsIgnorePattern": "^_" }
+    ],
+    "@typescript-eslint/no-explicit-any": "off",
+    "semi": ["warn", "always"], // luôn có ; cuối câu
+    // "quotes": ["warn", "single"], // dùng ' thay vì "
+    "no-console": "warn", // cảnh báo khi console.log
+    "eqeqeq": ["error", "always"], // bắt buộc === thay vì ==
+    "indent": ["warn", 2], // Sử dụng 2 khoảng trắng cho indent
+    "brace-style": ["warn", "1tbs"], // Kiểu nháy mở đóng của khối lệnh
+    "no-trailing-spaces": "warn", // Cấm khoảng trắng thừa ở cuối dòng
+    "eol-last": ["warn", "always"], // Luôn có dòng trống ở cuối file
+    "array-bracket-spacing": ["warn", "never"]
+  }
+}

@@ -1,0 +1,342 @@
+﻿[
+    {
+        "ParagraphIndex":  177,
+        "Style":  "Normal",
+        "Text":  "Xây dựng websocket để nhận dữ liệu realtime. Viết báo cáo đồ án tốt nghiệp và làm slide báo cáo\r\u0007"
+    },
+    {
+        "ParagraphIndex":  200,
+        "Style":  "TOC 3",
+        "Text":  "2.2.2 Mạch ESP8266\t13"
+    },
+    {
+        "ParagraphIndex":  201,
+        "Style":  "TOC 3",
+        "Text":  "2.2.3 Relay 5VDC\t15"
+    },
+    {
+        "ParagraphIndex":  203,
+        "Style":  "TOC 3",
+        "Text":  "2.3.1 Wifi\t17"
+    },
+    {
+        "ParagraphIndex":  204,
+        "Style":  "TOC 3",
+        "Text":  "2.3.2 Websocket\t18"
+    },
+    {
+        "ParagraphIndex":  206,
+        "Style":  "TOC 3",
+        "Text":  "2.4.1 Trình soạn thảo Arduino IDE\t19"
+    },
+    {
+        "ParagraphIndex":  234,
+        "Style":  "Normal",
+        "Text":  "Hình 2.2.2.1 Mạch ESP8266\t13"
+    },
+    {
+        "ParagraphIndex":  235,
+        "Style":  "Normal",
+        "Text":  "Hình 2.2.2.2 Thông số ESP8266\t14"
+    },
+    {
+        "ParagraphIndex":  236,
+        "Style":  "Normal",
+        "Text":  "Hình 2.2.3.1 Relay 5VDC SDR 5 chân\t16"
+    },
+    {
+        "ParagraphIndex":  237,
+        "Style":  "Normal",
+        "Text":  "Hình 2.3.1.1 Cách thức hoạt động Wifi\t17"
+    },
+    {
+        "ParagraphIndex":  238,
+        "Style":  "Normal",
+        "Text":  "Hình 2.3.2.1 Websocket\t19"
+    },
+    {
+        "ParagraphIndex":  239,
+        "Style":  "Normal",
+        "Text":  "Hình 2.4.1.1 Arduino IDE\t29"
+    },
+    {
+        "ParagraphIndex":  324,
+        "Style":  "Normal",
+        "Text":  "Trong thời đại mà công nghệ đang dần thay đổi từng khía cạnh của cuộc sống, lĩnh vực quản lý nhà trọ cũng cần được cải tiến để đáp ứng nhu cầu ngày càng cao về hiệu quả, minh bạch và trải nghiệm người dùng. Sự phát triển mạnh mẽ của công nghệ web kết hợp với Internet of Things (IoT) mang đến những cơ hội lớn trong việc xây dựng một hệ thống quản lý nhà trọ hiện đại, nơi mà cả chủ trọ và người thuê đều có thể tương tác, theo dõi và vận hành mọi hoạt động một cách thuận tiện, chính xác và thời gian thực."
+    },
+    {
+        "ParagraphIndex":  326,
+        "Style":  "Normal",
+        "Text":  "Thông qua việc kết hợp giữa nền tảng web hiện đại và cảm biến IoT, em đã xây dựng một hệ thống hỗ trợ quản lý phòng trọ toàn diện, có khả năng giám sát và xử lý các yếu tố liên quan đến tiện ích sinh hoạt, đặc biệt là chất lượng nước – một yếu tố quan trọng trong đời sống hàng ngày. Hệ thống đem lại nhiều lợi ích thiết thực:"
+    },
+    {
+        "ParagraphIndex":  329,
+        "Style":  "Normal",
+        "Text":  "-\tGiám sát chất lượng nước: Dữ liệu từ cảm biến IoT được cập nhật liên tục, cho phép cả chủ trọ và người thuê nắm được tình trạng độ đục nước, từ đó có thể chủ động xử lý nếu phát hiện bất thường."
+    },
+    {
+        "ParagraphIndex":  333,
+        "Style":  "Normal",
+        "Text":  "Trong thời đại mà công nghệ đang thay đổi từng khía cạnh của cuộc sống, lĩnh vực quản lý phòng trọ cũng đang dần chuyển mình nhờ vào sự hỗ trợ mạnh mẽ từ các nền tảng công nghệ hiện đại. Với sự kết hợp giữa công nghệ web và Internet of Things (IoT), việc quản lý nhà trọ không còn bị giới hạn trong những quy trình thủ công, tốn thời gian và dễ sai sót. Đây là cơ hội để nâng cao hiệu quả quản lý, tạo sự minh bạch và cải thiện trải nghiệm sống cho người thuê trọ."
+    },
+    {
+        "ParagraphIndex":  335,
+        "Style":  "Normal",
+        "Text":  "Để giải quyết các vấn đề đó, hệ thống quản lý phòng trọ tích hợp nền tảng IoT đã được xây dựng. Hệ thống sử dụng các cảm biến đo độ đục và chất lượng nước được lắp đặt tại các điểm cấp nước trong nhà trọ, giúp giám sát liên tục và gửi dữ liệu theo thời gian thực lên nền tảng đám mây thông qua giao thức truyền thông không dây. Dữ liệu bao gồm chỉ số độ đục, nhiệt độ nước, tình trạng sử dụng điện và nước của từng phòng, cho phép cả người thuê và chủ trọ truy cập mọi lúc mọi nơi thông qua giao diện web và ứng dụng di động."
+    },
+    {
+        "ParagraphIndex":  339,
+        "Style":  "Normal",
+        "Text":  "Bằng việc ứng dụng IoT và công nghệ web, hệ thống không chỉ giúp giảm khối lượng công việc cho chủ trọ mà còn góp phần nâng cao chất lượng sống cho người thuê, tối ưu sử dụng tài nguyên và hướng đến quản lý trọ bền vững. Đây là một bước tiến quan trọng trong công cuộc chuyển đổi số, định hình tương lai của lĩnh vực quản lý bất động sản cho thuê."
+    },
+    {
+        "ParagraphIndex":  355,
+        "Style":  "Normal",
+        "Text":  "Từ những bất cập nêu trên, đề tài “Xây dựng website quản lý phòng trọ và chất lượng nước của khách thuê trọ” được lựa chọn với mong muốn mang đến một giải pháp hiện đại, thiết thực, giúp nâng cao hiệu quả quản lý, minh bạch hóa các thông tin và cải thiện chất lượng dịch vụ nhà trọ. Cốt lõi của đề tài là phát triển một nền tảng quản lý phòng trọ trực tuyến, tích hợp với hệ thống giám sát chất lượng nước dựa trên công nghệ IoT. Các thiết bị cảm biến sẽ được lắp đặt để đo lường độ đục và các chỉ số liên quan đến chất lượng nước, dữ liệu sẽ được thu thập, xử lý và truyền về máy chủ thông qua kết nối không dây. Người thuê có thể dễ dàng theo dõi các chỉ số này thông qua giao diện web hoặc ứng dụng, từ đó có thể yên tâm hơn về điều kiện sinh hoạt của mình. Đồng thời, chủ trọ cũng có thể theo dõi tình trạng cung cấp nước trong hệ thống để kịp thời bảo trì hoặc thay đổi nguồn cấp nếu cần thiết."
+    },
+    {
+        "ParagraphIndex":  357,
+        "Style":  "Normal",
+        "Text":  "Sự kết hợp giữa công nghệ web và IoT trong đề tài này không chỉ dừng lại ở việc số hóa thông tin mà còn mở ra hướng tiếp cận mới cho việc xây dựng hệ thống nhà trọ thông minh, nơi mà mọi hoạt động đều được giám sát, kiểm soát và vận hành hiệu quả. Đây không chỉ là một giải pháp công nghệ mà còn là một bước tiến trong việc nâng cao chất lượng sống của người dân trong môi trường đô thị hiện đại. Vì những lý do đó, việc lựa chọn và triển khai đề tài này là hoàn toàn thiết thực và phù hợp với xu hướng phát triển hiện nay."
+    },
+    {
+        "ParagraphIndex":  359,
+        "Style":  "Normal",
+        "Text":  "Mục tiêu của đề tài “Xây dựng website quản lý phòng trọ và chất lượng nước của khách thuê trọ” là phát triển một hệ thống quản lý toàn diện, kết hợp giữa nền tảng web hiện đại và công nghệ IoT nhằm phục vụ cho nhu cầu thực tế của cả chủ nhà trọ và người thuê trọ. Trong bối cảnh đô thị hóa diễn ra nhanh chóng và nhu cầu về chỗ ở ngày càng tăng, việc quản lý phòng trọ theo phương pháp truyền thống như ghi chép sổ tay, tính toán hóa đơn thủ công hay kiểm tra chất lượng nước bằng cảm quan đã bộc lộ nhiều bất cập như thiếu chính xác, tốn thời gian, dễ sai sót và không đảm bảo minh bạch. Đề tài được xây dựng với mong muốn giải quyết những vấn đề này thông qua việc áp dụng công nghệ vào quá trình quản lý và giám sát, từ đó mang lại hiệu quả cao hơn trong công tác điều hành nhà trọ cũng như nâng cao trải nghiệm sống cho người thuê."
+    },
+    {
+        "ParagraphIndex":  360,
+        "Style":  "Normal",
+        "Text":  "Hệ thống website được xây dựng sẽ cung cấp cho chủ trọ công cụ để quản lý chi tiết từng phòng, theo dõi thông tin người thuê, hợp đồng, thời gian thuê, và đặc biệt là thống kê và tạo hóa đơn điện, nước hằng tháng dựa trên dữ liệu thu thập được từ các cảm biến IoT. Các cảm biến được lắp đặt tại hệ thống cấp nước sẽ giúp ghi nhận độ đục theo thời gian thực, từ đó giúp chủ trọ giám sát được chất lượng nguồn nước cung cấp cho người thuê. Những dữ liệu này sẽ được đồng bộ lên hệ thống, lưu trữ và hiển thị trực quan dưới dạng biểu đồ và cảnh báo, giúp chủ trọ dễ dàng nhận biết vấn đề như nước nhiễm bẩn từ đó đưa ra quyết định xử lý kịp thời."
+    },
+    {
+        "ParagraphIndex":  364,
+        "Style":  "List Paragraph",
+        "Text":  "Nghiên cứu phân tích tài liệu: Tiến hành thu thập và phân tích các tài liệu, nghiên cứu và ứng dụng thực tế liên quan đến hệ thống quản lý phòng trọ và giám sát chất lượng nước bằng IoT, nhằm làm rõ xu hướng công nghệ, đánh giá hiệu quả và xây dựng cơ sở lý thuyết cho việc phát triển hệ thống phù hợp với nhu cầu thực tế."
+    },
+    {
+        "ParagraphIndex":  365,
+        "Style":  "List Paragraph",
+        "Text":  "Thiết kế và phát triển: Xây dựng phần mềm quản lý website với ReactJS ở frontend và Java Spring Boot ở backend, đồng thời phát triển phần cứng gồm cảm biến độ đục nước kết hợp với module ESP8266 để thu thập và truyền dữ liệu đến server backend."
+    },
+    {
+        "ParagraphIndex":  376,
+        "Style":  "List Paragraph",
+        "Text":  "Sử dụng Websocket để có thể cập nhật dữ liệu realtime"
+    },
+    {
+        "ParagraphIndex":  386,
+        "Style":  "List Paragraph",
+        "Text":  "Mô hình hệ thống IoT"
+    },
+    {
+        "ParagraphIndex":  387,
+        "Style":  "List Paragraph",
+        "Text":  "Giới thiệu về ESP8266"
+    },
+    {
+        "ParagraphIndex":  415,
+        "Style":  "List Paragraph",
+        "Text":  "Thiết bị đầu ra: Arduino Esp8266 NodeMCU."
+    },
+    {
+        "ParagraphIndex":  416,
+        "Style":  "List Paragraph",
+        "Text":  "Thiết bị đóng/ngắt: Relay"
+    },
+    {
+        "ParagraphIndex":  419,
+        "Style":  "Normal",
+        "Text":  "2.2.1 Mạch ESP8266"
+    },
+    {
+        "ParagraphIndex":  420,
+        "Style":  "Normal",
+        "Text":  "NodeMCU là một bảng phát triển dựa trên chip Wi-Fi ESP8266 của hãng Espressif, được sử dụng rộng rãi trong các ứng dụng Internet of Things (IoT). Bảng mạch này tích hợp sẵn mô-đun ESP-12E, chip chuyển đổi USB-to-Serial CP2102 và cổng USB, cho phép nạp chương trình và cấp nguồn dễ dàng. NodeMCU hỗ trợ lập trình bằng Lua và Arduino IDE, giúp người dùng linh hoạt trong việc phát triển các ứng dụng điều khiển, giám sát từ xa qua mạng Wi-Fi."
+    },
+    {
+        "ParagraphIndex":  422,
+        "Style":  "Caption",
+        "Text":  "Hình 2.2.2.1 Mạch ESP8266"
+    },
+    {
+        "ParagraphIndex":  424,
+        "Style":  "Caption",
+        "Text":  "Hình 2.2.2.2 Thông số ESP8266"
+    },
+    {
+        "ParagraphIndex":  456,
+        "Style":  "Caption",
+        "Text":  "Bảng 2.2.2.1 Thông số ESP8266"
+    },
+    {
+        "ParagraphIndex":  457,
+        "Style":  "Heading 3",
+        "Text":  "2.2.2 Relay 5VDC"
+    },
+    {
+        "ParagraphIndex":  458,
+        "Style":  "Normal",
+        "Text":  "Relay 5VDC là một loại công tắc điện tử điều khiển bằng điện áp một chiều 5V, được sử dụng phổ biến trong các mạch điều khiển tự động nhằm đóng hoặc ngắt các thiết bị điện công suất lớn như đèn, quạt, máy bơm hay motor. Relay hoạt động dựa trên nguyên lý điện từ: khi cuộn dây bên trong được cấp điện áp 5V, nó sinh ra từ trường hút tiếp điểm, làm thay đổi trạng thái của mạch tải. Điều này cho phép các vi điều khiển như Arduino, ESP8266 hoặc ESP32 điều khiển các thiết bị điện áp cao mà không phải trực tiếp chịu dòng lớn, giúp đảm bảo an toàn và hiệu quả trong quá trình vận hành."
+    },
+    {
+        "ParagraphIndex":  459,
+        "Style":  "Normal",
+        "Text":  "Một module relay 5VDC thông thường không chỉ bao gồm relay cơ học mà còn tích hợp thêm các linh kiện hỗ trợ như transistor để khuếch đại tín hiệu điều khiển, diode bảo vệ chống điện áp ngược, đèn LED hiển thị trạng thái hoạt động và điện trở hạn dòng. Nhiều module còn có opto-isolator giúp cách ly quang học giữa mạch điều khiển và mạch công suất, tăng độ an toàn khi làm việc với điện áp cao. Các relay này có thiết kế nhỏ gọn, dễ tích hợp vào hệ thống, với khả năng chịu tải phổ biến lên đến 250VAC/10A hoặc 30VDC/10A."
+    },
+    {
+        "ParagraphIndex":  460,
+        "Style":  "Normal",
+        "Text":  "Relay 5VDC được ứng dụng rộng rãi trong các hệ thống nhà thông minh, điều khiển thiết bị từ xa, hệ thống tưới cây tự động, giám sát bơm nước, và các dự án IoT. Với khả năng cách ly giữa mạch điều khiển và mạch tải, giá thành rẻ và độ tin cậy cao, relay 5VDC là lựa chọn phổ biến trong cả nghiên cứu lẫn thực tế. Tuy vậy, do là relay cơ học nên nó vẫn tồn tại một số hạn chế như phát ra tiếng \"tạch\" khi chuyển mạch và tuổi thọ bị giới hạn do hao mòn tiếp điểm. Dù vậy, đây vẫn là giải pháp hiệu quả và phù hợp cho nhiều ứng dụng điều khiển tự động hiện nay."
+    },
+    {
+        "ParagraphIndex":  462,
+        "Style":  "Caption",
+        "Text":  "Hình 2.2.3.1. Relay 5VDC SDR 5 chân"
+    },
+    {
+        "ParagraphIndex":  483,
+        "Style":  "Caption",
+        "Text":  "Bảng 2.2.3.1 Thông số Relay 5VDC"
+    },
+    {
+        "ParagraphIndex":  485,
+        "Style":  "Heading 3",
+        "Text":  "2.3.1 Wifi"
+    },
+    {
+        "ParagraphIndex":  489,
+        "Style":  "Caption",
+        "Text":  "Hình 2.3.1.1 Cách thức hoạt động wifi"
+    },
+    {
+        "ParagraphIndex":  501,
+        "Style":  "Heading 3",
+        "Text":  "2.3.2 Websocket"
+    },
+    {
+        "ParagraphIndex":  502,
+        "Style":  "Normal",
+        "Text":  "WebSocket là một giao thức truyền thông mạng cho phép thiết lập kết nối hai chiều, liên tục và full-duplex giữa client và server qua một kết nối TCP duy nhất. Khác với giao thức HTTP truyền thống chỉ hỗ trợ mô hình yêu cầu – phản hồi, WebSocket giúp cả hai phía có thể gửi và nhận dữ liệu bất cứ lúc nào mà không cần phải mở lại kết nối, giảm thiểu độ trễ và tăng hiệu suất truyền tải dữ liệu.[1]"
+    },
+    {
+        "ParagraphIndex":  503,
+        "Style":  "Normal",
+        "Text":  "WebSocket thường được ứng dụng trong các hệ thống cần trao đổi dữ liệu thời gian thực như ứng dụng chat, game đa người chơi, bảng điều khiển giám sát hoặc cập nhật thông tin trực tiếp. Nhờ khả năng duy trì kết nối ổn định và liên tục, WebSocket giúp tiết kiệm băng thông và cải thiện trải nghiệm người dùng so với các phương thức truyền thống như polling hoặc long polling trên HTTP. Đây là lựa chọn lý tưởng cho các ứng dụng IoT, nơi yêu cầu trao đổi dữ liệu nhanh và liên tục giữa thiết bị và server."
+    },
+    {
+        "ParagraphIndex":  506,
+        "Style":  "Caption",
+        "Text":  "Hình 2.3.2.1 Websocket"
+    },
+    {
+        "ParagraphIndex":  508,
+        "Style":  "Heading 3",
+        "Text":  "2.4.1 Trình soạn thảo Arduino IDE"
+    },
+    {
+        "ParagraphIndex":  509,
+        "Style":  "Normal",
+        "Text":  "IDE Arduino là một phần mềm mã nguồn mở phổ biến, được thiết kế để hỗ trợ lập trình, viết mã và biên dịch cho các bo mạch Arduino một cách dễ dàng. Khi người dùng hoàn thành việc viết mã và tiến hành biên dịch, IDE sẽ tạo ra file định dạng Hex, một dạng mã thập lục phân mà bo mạch Arduino có thể hiểu được. File Hex này sau đó được truyền qua cáp USB đến bo mạch. Trên mỗi bo Arduino, bộ vi điều khiển tích hợp sẽ nhận và thực thi chương trình dựa trên nội dung trong file Hex, giúp thiết bị hoạt động theo đúng yêu cầu của người lập trình."
+    },
+    {
+        "ParagraphIndex":  511,
+        "Style":  "Caption",
+        "Text":  "Hình 2.4.1.1 Arduino IDE"
+    },
+    {
+        "ParagraphIndex":  513,
+        "Style":  "List Paragraph",
+        "Text":  "Nút kiểm tra chương trình: Dùng để rà soát lỗi trong mã nguồn trước khi nạp xuống bo mạch. Nếu phát hiện lỗi, Arduino IDE sẽ hiển thị chi tiết thông báo lỗi ở khu vực thông báo để người dùng dễ dàng sửa chữa."
+    },
+    {
+        "ParagraphIndex":  514,
+        "Style":  "List Paragraph",
+        "Text":  "Nút nạp chương trình xuống bo Arduino: Được sử dụng để tải chương trình đã viết và biên dịch xuống bo Arduino. Trước khi nạp, chương trình sẽ được kiểm tra lỗi lần nữa để đảm bảo không có vấn đề xảy ra trong quá trình tải."
+    },
+    {
+        "ParagraphIndex":  515,
+        "Style":  "List Paragraph",
+        "Text":  "Màn hình giao tiếp với máy tính (Serial Monitor): Khi bấm vào biểu tượng kính lúp, cửa sổ giao tiếp serial sẽ mở ra, hiển thị dữ liệu mà bo Arduino gửi về. Để gửi dữ liệu này, trong mã nguồn phải sử dụng lệnh Serial.print() hoặc Serial.println()."
+    },
+    {
+        "ParagraphIndex":  517,
+        "Style":  "List Paragraph",
+        "Text":  "Vùng thông báo: Nơi hiển thị các thông tin liên quan đến quá trình biên dịch, lỗi, cảnh báo hoặc các thông báo khác từ Arduino IDE."
+    },
+    {
+        "ParagraphIndex":  518,
+        "Style":  "List Paragraph",
+        "Text":  "Menu chức năng Arduino IDE: Trong Arduino IDE, menu phổ biến nhất là menu File, cho phép người dùng mở, lưu file hoặc truy cập mục Examples (ví dụ mẫu). Phần Examples cung cấp nhiều đoạn mã mẫu hữu ích, giúp người dùng nhanh chóng bắt đầu và tham khảo, điển hình như ví dụ chương trình điều khiển LED chớp tắt (blink) — một bài test cơ bản để kiểm tra bo Arduino khi mới sử dụng."
+    },
+    {
+        "ParagraphIndex":  702,
+        "Style":  "Normal",
+        "Text":  "Trong chương này, đề tài sẽ trình bày về môi trường nghiên cứu và cách triển khai thực nghiệm nhằm đánh giá hiệu quả hoạt động của hệ thống giám sát chất lượng nước trong khu vực phòng trọ, dựa trên nền tảng Internet of Things (IoT)."
+    },
+    {
+        "ParagraphIndex":  704,
+        "Style":  "Normal",
+        "Text":  "Trong môi trường thử nghiệm này, các cảm biến IoT như cảm biến độ đục, cảm biến mực nước và các thiết bị vi điều khiển (ESP8266, NodeMCU) đã được lắp đặt nhằm thu thập dữ liệu theo thời gian thực. Các dữ liệu như độ đục nước, tình trạng mực nước và trạng thái của bơm/van được gửi về máy chủ thông qua giao thức WebSocket, từ đó giúp người quản lý dễ dàng theo dõi và đưa ra quyết định kịp thời thông qua dashboard trực quan."
+    },
+    {
+        "ParagraphIndex":  709,
+        "Style":  "Normal",
+        "Text":  "Nguồn 5V: cung cấp điện cho toàn hệ thống, cấp điện cho cảm biến đo độ đục của nước, relay tắt/mở bơm nước, cấp nguồn cho cả ESP82."
+    },
+    {
+        "ParagraphIndex":  716,
+        "Style":  "List Paragraph",
+        "Text":  "Kết nối ESP8266: Vi điều khiển ESP8266 được kết nối với các cảm biến thông qua các chân tín hiệu tương ứng, giúp thu thập dữ liệu một cách chính xác. Nguồn điện cho toàn bộ hệ thống được cấp từ bộ chuyển nguồn phù hợp, đảm bảo cung cấp điện áp và dòng điện ổn định, giúp thiết bị vận hành liên tục và hiệu quả."
+    },
+    {
+        "ParagraphIndex":  717,
+        "Style":  "List Paragraph",
+        "Text":  "Kiểm tra kết nối mạng Wi-Fi để đảm bảo cảm biến, ESP8266, server, giao diện để có thể cập nhật dữ liệu realtime."
+    },
+    {
+        "ParagraphIndex":  724,
+        "Style":  "List Paragraph",
+        "Text":  "Kiểm tra độ ổn định của hệ thống: Kiểm tra sự ổn định và độ tin cậy của kết nối Wi-Fi giữa ESP8266 và server backend thông qua giao thức WebSocket trong thời gian dài."
+    },
+    {
+        "ParagraphIndex":  1544,
+        "Style":  "Normal",
+        "Text":  "│   │               │   └── websockets/                # WebSocket handlers"
+    },
+    {
+        "ParagraphIndex":  1698,
+        "Style":  "Normal",
+        "Text":  "│   └── websocket.ts             # Cấu hình websocket"
+    },
+    {
+        "ParagraphIndex":  1852,
+        "Style":  "List Paragraph",
+        "Text":  "Tính tương thích và mở rộng: Sử dụng websocket cho phép cập nhật dữ liệu liên tục từ thiết bị ESP8266 lên giao diện với độ trễ thấp."
+    },
+    {
+        "ParagraphIndex":  1860,
+        "Style":  "List Paragraph",
+        "Text":  "Mục tiêu đo lường và truyền dữ liệu: Hệ thống đã hoàn thành nhiệm vụ thu thập dữ liệu độ đục nước từ cảm biến và truyền dữ liệu về server backend thông qua module ESP8266 theo thời gian thực, đúng định dạng và giao thức định sẵn."
+    },
+    {
+        "ParagraphIndex":  1863,
+        "Style":  "List Paragraph",
+        "Text":  "Quy trình giao tiếp hoàn thiện: Quá trình truyền dữ liệu giữa cảm biến, module ESP8266 và server backend được thiết kế tối ưu, đảm bảo khả năng giao tiếp liền mạch giữa các thành phần IoT và phần mềm quản lý."
+    },
+    {
+        "ParagraphIndex":  1866,
+        "Style":  "Normal",
+        "Text":  "Đề tài “Xây dựng website quản lý phòng trọ và chất lượng nước sử dụng của khách thuê trọ” đã đạt được những kết quả quan trọng, đáp ứng tốt các mục tiêu nghiên cứu đã đặt ra. Hệ thống được phát triển đã tích hợp hiệu quả giữa nền tảng IoT và công nghệ web hiện đại, cho phép tự động thu thập và giám sát chỉ số độ đục nước – một trong những yếu tố phản ánh chất lượng nước sinh hoạt của người thuê trọ. Việc sử dụng cảm biến đo độ đục nước kết hợp với module ESP8266 giúp quá trình thu thập dữ liệu diễn ra ổn định và theo thời gian thực. Trên nền tảng này, dữ liệu được truyền về server backend sử dụng Java Spring Boot và lưu trữ an toàn trong hệ quản trị cơ sở dữ liệu MySQL. Giao diện người dùng được xây dựng bằng React và TypeScript cho phép hiển thị dữ liệu trực quan, thân thiện và dễ sử dụng đối với cả chủ trọ lẫn khách thuê."
+    },
+    {
+        "ParagraphIndex":  1867,
+        "Style":  "Normal",
+        "Text":  "Bên cạnh khả năng vận hành ổn định trong môi trường thực tế, hệ thống còn thể hiện tính ứng dụng cao nhờ khả năng mở rộng và tích hợp các chức năng quản lý thông tin phòng trọ như hợp đồng, hóa đơn, và lịch sử sử dụng dịch vụ. Quá trình xây dựng và thử nghiệm đề tài cũng là cơ hội để vận dụng các kiến thức đã học vào một giải pháp cụ thể, từ thiết kế kiến trúc hệ thống, lập trình giao tiếp thiết bị IoT đến phát triển website hoàn chỉnh. Tuy nhiên, hệ thống hiện vẫn phụ thuộc vào kết nối Wi-Fi tại nơi triển khai và mới chỉ tập trung vào một chỉ số chất lượng nước, chưa tích hợp các cảm biến mở rộng khác như pH hay nhiệt độ. Đây sẽ là định hướng phát triển trong tương lai nhằm hoàn thiện hơn nữa khả năng giám sát và nâng cao chất lượng sống cho người thuê trọ."
+    },
+    {
+        "ParagraphIndex":  1891,
+        "Style":  "Normal",
+        "Text":  "[4] Espressif Systems, “ESP8266 Technical Reference,” [Online]. Available: https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf. [Accessed: 27-May-2025]."
+    }
+]
