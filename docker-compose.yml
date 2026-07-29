@@ -23,7 +23,7 @@ services:
     ports:
       - "9996:9996"
     environment:
-      - SPRING_PROFILES_ACTIVE=baonh2
+      - SPRING_PROFILES_ACTIVE=thanhdat
       - SPRING_DATASOURCE_URL=jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false
       - SPRING_DATASOURCE_PASSWORD=123456789
       - 'SPRING_APPLICATION_JSON={"spring":{"datasource":{"url":"jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false","username":"root","password":"123456789"}}}'
@@ -44,7 +44,7 @@ services:
     ports:
       - "9997:9997"
     environment:
-      - SPRING_PROFILES_ACTIVE=baonh2
+      - SPRING_PROFILES_ACTIVE=thanhdat
       - SPRING_DATASOURCE_URL=jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false
       - SPRING_DATASOURCE_PASSWORD=123456789
       - 'SPRING_APPLICATION_JSON={"spring":{"datasource":{"url":"jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false","username":"root","password":"123456789"}}}'
@@ -56,79 +56,7 @@ services:
       - APP_SERVICE_NOTIFY_URL=http://notify-service:9998
     depends_on:
       - mysql-room-management-web
-
-  file-service:
-    build:
-      context: ./personal_project_back-end
-      dockerfile: file-service/Dockerfile
-    container_name: file-service
-    ports:
-      - "9994:9994"
-    environment:
-      - SPRING_PROFILES_ACTIVE=baonh2
-      - SPRING_DATASOURCE_URL=jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false
-      - SPRING_DATASOURCE_PASSWORD=123456789
-      - 'SPRING_APPLICATION_JSON={"spring":{"datasource":{"url":"jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false","username":"root","password":"123456789"}}}'
-      - JAVA_TOOL_OPTIONS=-Xmx256m
-      - APP_SERVICE_FILE_URL=http://file-service:9994
-      - APP_SERVICE_PAYMENT_URL=http://payment-service:9995
-      - APP_SERVICE_AUTH_URL=http://auth-service:9996
-      - APP_SERVICE_MAIN_URL=http://main-service:9997
-      - APP_SERVICE_NOTIFY_URL=http://notify-service:9998
-    depends_on:
-      - mysql-room-management-web
-
-  payment-service:
-    build:
-      context: ./personal_project_back-end
-      dockerfile: payment-service/Dockerfile
-    container_name: payment-service
-    ports:
-      - "9995:9995"
-    environment:
-      - SPRING_PROFILES_ACTIVE=baonh2
-      - SPRING_DATASOURCE_URL=jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false
-      - SPRING_DATASOURCE_PASSWORD=123456789
-      - 'SPRING_APPLICATION_JSON={"spring":{"datasource":{"url":"jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false","username":"root","password":"123456789"}}}'
-      - JAVA_TOOL_OPTIONS=-Xmx256m
-      - APP_SERVICE_FILE_URL=http://file-service:9994
-      - APP_SERVICE_PAYMENT_URL=http://payment-service:9995
-      - APP_SERVICE_AUTH_URL=http://auth-service:9996
-      - APP_SERVICE_MAIN_URL=http://main-service:9997
-      - APP_SERVICE_NOTIFY_URL=http://notify-service:9998
-    depends_on:
-      - mysql-room-management-web
-
-  notify-service:
-    build:
-      context: ./personal_project_back-end
-      dockerfile: notify-service/Dockerfile
-    container_name: notify-service
-    ports:
-      - "9998:9998"
-    environment:
-      - SPRING_PROFILES_ACTIVE=baonh2
-      - SPRING_DATASOURCE_URL=jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false
-      - SPRING_DATASOURCE_PASSWORD=123456789
-      - 'SPRING_APPLICATION_JSON={"spring":{"datasource":{"url":"jdbc:mysql://mysql-room-management-web:3306/room-management-web?allowPublicKeyRetrieval=true&useSSL=false","username":"root","password":"123456789"}}}'
-      - JAVA_TOOL_OPTIONS=-Xmx256m
-      - APP_SERVICE_FILE_URL=http://file-service:9994
-      - APP_SERVICE_PAYMENT_URL=http://payment-service:9995
-      - APP_SERVICE_AUTH_URL=http://auth-service:9996
-      - APP_SERVICE_MAIN_URL=http://main-service:9997
-      - APP_SERVICE_NOTIFY_URL=http://notify-service:9998
-    depends_on:
-      - mysql-room-management-web
-
-  frontend:
-    build:
-      context: ./personal_project_front-end
-    container_name: frontend
-    ports:
-      - "5173:5173"
-    depends_on:
-      - main-service
-      - auth-service
 
 volumes:
   mysql_data:
+
