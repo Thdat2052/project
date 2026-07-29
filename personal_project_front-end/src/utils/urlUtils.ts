@@ -1,7 +1,7 @@
 import { RoomManageAction } from "@/enums/RoomManageAction";
 
-const SERVER_BASE_URL = import.meta.env.VITE_SERVER_API_ENDPOINT || "";
-const AUTH_BASE_URL = import.meta.env.VITE_AUTH_API_ENDPOINT || "";
+const SERVER_BASE_URL = import.meta.env.VITE_SERVER_API_ENDPOINT || "http://localhost:9997";
+const AUTH_BASE_URL = import.meta.env.VITE_AUTH_API_ENDPOINT || "http://localhost:9996";
 const API_PREFIX = "/api";
 const API_VERSION = "/v1";
 const API_URL_PREFIX = API_PREFIX + API_VERSION;

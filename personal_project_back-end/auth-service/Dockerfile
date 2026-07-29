@@ -4,7 +4,7 @@ WORKDIR /app
 # Copy parent POM and all module codes
 COPY . .
 # Build the auth-service and its dependencies
-RUN mvn -pl auth-service -am clean package -DskipTests
+RUN mvn -pl auth-service -am clean package -DskipTests -B --fail-at-end -Dmaven.wagon.http.retryHandler.count=3 -Dmaven.wagon.httpconnectionManager.ttlSeconds=120
 
 # Run stage
 FROM eclipse-temurin:17-jre-jammy

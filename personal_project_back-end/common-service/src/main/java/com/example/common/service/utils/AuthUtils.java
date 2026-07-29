@@ -16,16 +16,16 @@ public class AuthUtils {
     }
 
     public static String getTokenFromHeader(HttpServletRequest request){
-        String authorizationHeader = request.getHeader("Authorization");
         if (!hasAuthorizationBearer(request)) {
-            throw new SecurityException("Missing or invalid Authorization header");
+            return null;
         }
-        return authorizationHeader.substring(7);
+        String authorizationHeader = request.getHeader("Authorization");
+        return authorizationHeader.substring(7).trim();
     }
 
     public static boolean hasAuthorizationBearer(HttpServletRequest request) {
         String header = request.getHeader("Authorization");
-        if (ObjectUtils.isEmpty(header) || !header.startsWith("Bearer")) {
+        if (ObjectUtils.isEmpty(header) || !header.startsWith("Bearer ") || header.length() <= 7) {
             return false;
         }
 
